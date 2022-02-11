@@ -39,7 +39,7 @@ def circulate():
 
 ## Output:
 
-![output](./output.png)
+![output](./Output1.png)
 
 ## Result:
 Successfully Finished
