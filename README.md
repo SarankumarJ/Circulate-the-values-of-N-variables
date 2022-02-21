@@ -7,7 +7,7 @@ Anaconda - Python 3.7
 ## Algorithm: 
 
 ### Step 1: 
-import numpy
+Start Program
 
 ### Step 2: 
 import numpy
@@ -19,7 +19,7 @@ Get the value from the user for the number of rotation
 Using the slicing concept rotate the list
 
 ### Step 5: 
-print the reult
+print the result
 
 ### Step 6: 
 End Program
